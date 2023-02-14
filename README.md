@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Parth.
-- 👀 I’m interested in Astrophysical Hydrodynamics, particularly in modelling and understanding the evolution of stellar clusters and other dynamic structures in the Universe. Also very interested in Machine Learning and AI, and how they can be applied to the huge datasets you see in Astronomy.
-- 🌱 I'm currently in the Engineering Physics program at IIT-Bombay, also pursuing a minor in Computer Science.
-- 💞️ Reach out if you have a project idea that you think would interest me, and wanna collaborate! If you are -
-- 📫 you can contact me at parth.sastry@iitb.ac.in . Cheers!
+Hi, I'm Parth Sastry, a PhD student in the Engineering and Applied Sciences Department at the University of Massachusetts, Dartmouth. As part of my undergraduate thesis project, I developed code for polarimetric analysis for the upcoming Daksha Space Telescope (https://www.dakshasat.in/science/grb-polarization). I'm currently interested in MHD simulations of compact object mergers.
 
 <!---
 parthsastry/parthsastry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
